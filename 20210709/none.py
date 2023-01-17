@@ -1,0 +1,3 @@
+# NoneType
+
+print(None)
